@@ -1,0 +1,16 @@
+body {
+  color: black;
+  background-color: black;
+}
+
+.left-side-menu {
+  height: 1080px;
+  position: fixed;
+}
+
+.omer-img {
+  width: 60%;
+  margin-left: 12%;
+  margin-top: 87px;
+}
+/*# sourceMappingURL=style.css.map */
